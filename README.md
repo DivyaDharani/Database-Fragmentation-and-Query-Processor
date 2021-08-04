@@ -1,2 +1,2 @@
-# Database-Partitioning---Horizontal-Fragmentation-and-Query-Processor
+# Database Partitioning - Horizontal Fragmentation and Query Processor
 
